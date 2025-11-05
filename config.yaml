@@ -1,8 +1,17 @@
 sample_metadata: metadata/working_metadata.tsv
 
-gene_metadata: metadata/scg-controls.csv
+gene_metadata: metadata/gene-accessions.txt
+
+# The directory where the fastgather databases were made
+database_directory: /group/ctbrowngrp/sourmash-db/gtdb-rs226-08062025
 
 test: False
 
-output_directory: /group/ctbrowngrp/2025-ccbaumler-team-tartrate/controls
+output_directory: /group/ctbrowngrp/2025-ccbaumler-team-tartrate/updated
 
+scale: 1000
+
+k_sizes:
+  - 21
+  - 31
+  - 51

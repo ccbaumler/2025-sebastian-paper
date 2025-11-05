@@ -1,10 +1,10 @@
-symbol,gene_id,organism,gene_name,NCBI_DB
-NP_462264.1,STM3354,Salmonella,ttdA,protein
-NP_462265.1,STM3355,Salmonella,ttdB,protein
-NP_459741.1,STM0761,Salmonella,dtuB,protein
-NP_459742.1,STM0762,Salmonella,dtuA,protein
-AAL19700.1,,Salmonella,,protein
-AAL19701.1,,Salmonella,,protein
-NP_417533.1,,Escherichia,,protein
-NP_417534.1,,Escherichia,,protein
-AAA60327.1,,Pseudomonas,,protein
+symbol,gene_id,organism,gene_name,NCBI_DB,gene_full_name
+NP_462264.1,STM3354,Salmonella,ttdA,protein,"L(+)-tartrate dehydratase subunit beta"
+NP_462265.1,STM3355,Salmonella,ttdB,protein,"tartrate dehydratase subunit alpha subunit"
+NP_459741.1,STM0761,Salmonella,dtuB,protein,"Tartrate dehydratase beta subunit/Fumarate hydratase Class I anaerobic"
+NP_459742.1,STM0762,Salmonella,dtuA,protein,"fumarate hydratase, alpha subunit"
+AAL19700.1,,Salmonella,,protein,"Tartrate dehydratase beta subunit/Fumarate hydratase class I anaerobic"
+AAL19701.1,,Salmonella,,protein,"fumarate hydratase, alpha subunit"
+NP_417533.1,,Escherichia,,protein,"L(+)-tartrate dehydratase subunit alpha"
+NP_417534.1,,Escherichia,,protein,"L(+)-tartrate dehydratase subunit beta"
+AAA60327.1,,Pseudomonas,,protein,"tartrate dehydrogenase"
